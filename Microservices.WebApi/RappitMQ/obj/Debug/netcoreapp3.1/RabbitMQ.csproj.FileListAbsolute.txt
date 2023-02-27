@@ -1,0 +1,10 @@
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.deps.json
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.pdb
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfo.cs
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RappitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.pdb

@@ -1,0 +1,10 @@
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\bin\Debug\netcoreapp3.1\RabbitMQEnhanced.deps.json
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\bin\Debug\netcoreapp3.1\RabbitMQEnhanced.dll
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\bin\Debug\netcoreapp3.1\RabbitMQEnhanced.pdb
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.csproj.AssemblyReference.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.AssemblyInfoInputs.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.AssemblyInfo.cs
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.csproj.CoreCompileInputs.cache
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.dll
+C:\Users\monzer.mohamed\source\repos\Microservices.WebApi\RabbitMQEnhanced\obj\Debug\netcoreapp3.1\RabbitMQEnhanced.pdb

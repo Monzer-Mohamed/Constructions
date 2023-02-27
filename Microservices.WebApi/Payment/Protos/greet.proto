@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "Payment.Protos";
+
+package greet;
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc UpdateContractur (UpdateContracturRequest) returns (UpdateContracturResponse);
+}
+// The request message containing the user's name.
+message UpdateContracturRequest {
+  int32 applicationFormId = 1;
+}
+// The response message containing the greetings.
+message UpdateContracturResponse {
+  string message = 1;
+  bool status = 2;
+}
